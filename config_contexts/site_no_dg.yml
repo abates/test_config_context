@@ -1,0 +1,11 @@
+---
+_metadata:
+  name: Config Context Site no DG
+  weight: 500
+  description: Filtered on Site without using DG
+  is_active: true
+  sites:
+    - slug: site-4
+
+note: "this context is applied by site, not using a dynamic group."
+type: "config context applied by site, no dynamic group"

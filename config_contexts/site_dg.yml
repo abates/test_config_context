@@ -1,0 +1,10 @@
+---
+_metadata:
+  name: Config Context Site
+  weight: 500
+  description: Filtered on Site via Dynamic Group
+  is_active: true
+  dynamic_groups:
+    - slug: config-context-site
+
+type: "config context applied by site with dynamic group"

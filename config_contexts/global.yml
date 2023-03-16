@@ -1,0 +1,9 @@
+---
+_metadata:
+  name: Config Context Global
+  weight: 500
+  description: Global, no filter
+  is_active: true
+
+notes: "notes on an unfiltered context"
+type: "globally applied context (no filter)"

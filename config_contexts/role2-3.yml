@@ -1,0 +1,10 @@
+---
+_metadata:
+  name: Config Context Role 2 & 3
+  weight: 500
+  description: Filtered on Role 2 & 3 via Dynamic Group
+  is_active: true
+  dynamic_groups:
+    - slug: dynamic-group-role-2-3
+
+type: "context applied to role 2 & 3"
