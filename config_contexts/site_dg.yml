@@ -5,6 +5,6 @@ _metadata:
   description: Filtered on Site via Dynamic Group
   is_active: true
   dynamic_groups:
-    - slug: config-context-site
+    - slug: dynamic-group-site
 
 type: "config context applied by site with dynamic group"
