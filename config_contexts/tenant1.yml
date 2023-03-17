@@ -1,0 +1,10 @@
+---
+_metadata:
+  name: Role Config Context Role 1
+  weight: 500
+  description: Filtered on Role 1 via Dynamic Group
+  is_active: true
+  dynamic_groups:
+    - slug: tenant-1
+
+new_item: "applied via dynamic group filtered by tenant 1"
