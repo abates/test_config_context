@@ -1,0 +1,10 @@
+---
+_metadata:
+  name: Status Config Context
+  weight: 500
+  description: Filtered on Status via Dynamic Group
+  is_active: true
+  dynamic_groups:
+    - slug: config-context-status
+
+yet_another_new_item: "applied via dynamic group filtered by status decommissioning"
