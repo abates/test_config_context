@@ -1,8 +1,8 @@
 ---
 _metadata:
-  name: Role Config Context Role 1
+  name: Tenant Config Context Tenant 1
   weight: 500
-  description: Filtered on Role 1 via Dynamic Group
+  description: Filtered on Tenant 1 via Dynamic Group
   is_active: true
   dynamic_groups:
     - slug: tenant-1
